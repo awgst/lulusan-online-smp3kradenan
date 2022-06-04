@@ -1,3 +1,7 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .sized{
     width: 500px;
 }
@@ -16,4 +20,14 @@
 
 .form-centered{
     margin-left: 12.5%;
+}
+
+.card-body{
+    background-color: rgb(250, 246, 246);
+    border: solid rgba(177, 173, 173, 0.499);
+    font-size: 120%;
+}
+
+.card-title{
+    font-weight: bold;
 }

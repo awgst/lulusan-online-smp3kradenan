@@ -15,6 +15,7 @@
       <div class="row">
         <div class="col">
           <h2 class="title">PENGUNGUMAN KELULUSAN SMP NEGERI 3 KRADENAN 2022</h2>
+          <hr>
         </div>
       </div>
       <div class="row">
